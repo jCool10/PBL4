@@ -1,0 +1,4 @@
+data
+
+# ignore all file .csv in Instacart-Market-Basket-Analysis folder
+*.csv
